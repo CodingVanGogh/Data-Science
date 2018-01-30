@@ -1,2 +1,2 @@
 # Data-Science
-Data Science, Machine Learning, Data Exploration, Big Data etc
+This repository contains projects related to Data Science, Machine Learning, Data Exploration, Big Data etc
